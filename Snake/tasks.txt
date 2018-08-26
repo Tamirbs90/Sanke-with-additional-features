@@ -1,0 +1,15 @@
+solve: 9 ^ 2 + 7 ^2 =           
+97
+1
+Find a number which can be devided by9                  
+97
+2
+Find a number which is multiply of9                    
+97
+3
+Find a number which is odd and greater than 9                      
+97
+4
+Find a number which its modulo of 9 is 3                       
+97
+5
